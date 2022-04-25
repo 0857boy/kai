@@ -1,0 +1,7 @@
+[user]
+	email = joe3727@gmail.com
+	name = Joe
+[core]
+	editor = emacs
+[color]
+	status = auto
